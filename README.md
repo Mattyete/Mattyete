@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm  Mattyete😄</h1>
 <h3 align="left">A passionate full stack developer in progress, I'm a Computer and Software Engineer </h3>
 
-- 🔭 I’m currently working for my self in robotics
+- 🔭 I’m currently working for my Nextus, FullStack + AI Integration
 
 - 🌱 I’m currently focused learning **AI and Software Engineering**
 
